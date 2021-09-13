@@ -1,0 +1,5 @@
+[MASTER]
+disable=R0913,R0904,C1801,C0102,C0103,C0415,W1201,W1401,C0302,C0305,C0312,R0902,W0612,W0212,E1101
+report=n
+init-hook='import sys; sys.path.append(".")'
+
