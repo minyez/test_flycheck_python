@@ -1,1 +1,7 @@
 .python-version
+
+*.pyc
+__pycache__
+
+*.swp
+flycheck_*
